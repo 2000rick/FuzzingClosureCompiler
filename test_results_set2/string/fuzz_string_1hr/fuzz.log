@@ -1,0 +1,1042 @@
+Saving new input (at run 1): input #0 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000000 random +count +cov
+Saving new input (at run 2): input #1 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000001 src:000000,havoc:9 +count +cov
+Saving new input (at run 3): input #2 of size 36; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000002 src:000000,havoc:4 +count
+Saving new input (at run 5): input #3 of size 24; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000003 src:000000,havoc:12 +count
+Saving new input (at run 6): input #4 of size 56; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000004 src:000000,havoc:9 +count
+Saving new input (at run 7): input #5 of size 16; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000005 src:000000,havoc:9 +count
+Saving new input (at run 9): input #6 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000006 src:000000,havoc:19 +count
+Saving new input (at run 11): input #7 of size 80; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000007 src:000000,havoc:4 +count
+Saving new input (at run 15): input #8 of size 72; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000008 src:000000,havoc:26 +count
+Saving new input (at run 19): input #9 of size 92; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000009 src:000000,havoc:9 +count
+Saving new input (at run 24): input #10 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000010 src:000000,havoc:2 +count +cov +valid
+Saving new input (at run 29): input #11 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000011 src:000000,havoc:2 +count +cov
+Saving new input (at run 30): input #12 of size 36; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000012 src:000000,havoc:10 +count +cov
+Saving new input (at run 31): input #13 of size 8; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000013 src:000000,havoc:11 +count +cov +valid
+Saving new input (at run 44): input #14 of size 120; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000014 src:000000,havoc:12 +count
+Saving new input (at run 52): input #15 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000015 src:000000,havoc:3 +count
+Saving new input (at run 60): input #16 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000016 src:000000,havoc:2 +count
+Saving new input (at run 115): input #17 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000017 src:000000,havoc:10 +count
+Saving new input (at run 256): input #18 of size 212; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000018 src:000000,havoc:6 +count
+Saving new input (at run 354): input #19 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000019 src:000001,havoc:2 +count
+Saving new input (at run 364): input #20 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000020 src:000001,havoc:11 +count
+Saving new input (at run 365): input #21 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000021 src:000001,havoc:7 +count
+Saving new input (at run 377): input #22 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000022 src:000001,havoc:2 +count
+Saving new input (at run 448): input #23 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000023 src:000001,havoc:17 +count +cov
+Saving new input (at run 483): input #24 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000024 src:000001,havoc:2 +count +cov
+Saving new input (at run 532): input #25 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000025 src:000001,havoc:2 +count
+Saving new input (at run 563): input #26 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000026 src:000001,havoc:1 +count +cov
+Saving new input (at run 596): input #27 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000027 src:000001,havoc:31 +count
+Saving new input (at run 1069): input #28 of size 320; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000028 src:000010,havoc:22 +count
+Saving new input (at run 1404): input #29 of size 40; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000029 src:000010,havoc:1 +count
+Saving new input (at run 1974): input #30 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000030 src:000011,havoc:2 +count +cov
+Saving new input (at run 2048): input #31 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000031 src:000011,havoc:3 +count +cov
+Saving new input (at run 2049): input #32 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000032 src:000011,havoc:4 +count +cov +valid
+Saving new input (at run 2828): input #33 of size 344; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000033 src:000013,havoc:21 +count
+Saving new input (at run 3165): input #34 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000034 src:000017,havoc:13 +count +cov
+Saving new input (at run 3220): input #35 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000035 src:000020,havoc:3 +count +cov
+Saving new input (at run 3223): input #36 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000036 src:000020,havoc:2 +count +cov
+Saving new input (at run 3260): input #37 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000037 src:000023,havoc:3 +count +cov
+Saving new input (at run 3262): input #38 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000038 src:000023,havoc:1 +count +cov
+Saving new input (at run 3264): input #39 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000039 src:000023,havoc:9 +count +cov
+Saving new input (at run 3276): input #40 of size 48; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000040 src:000023,havoc:5 +count +cov
+Saving new input (at run 3280): input #41 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000041 src:000023,havoc:4 +count +cov
+Saving new input (at run 3283): input #42 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000042 src:000023,havoc:13 +count +cov
+Saving new input (at run 3306): input #43 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000043 src:000023,havoc:6 +count +cov
+Saving new input (at run 3321): input #44 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000044 src:000023,havoc:13 +count +cov
+Saving new input (at run 3342): input #45 of size 44; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000045 src:000023,havoc:10 +count +cov
+Saving new input (at run 3359): input #46 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000046 src:000023,havoc:11 +count +cov
+Saving new input (at run 3363): input #47 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000047 src:000023,havoc:10 +count +cov
+Saving new input (at run 3367): input #48 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000048 src:000023,havoc:8 +count +cov
+Saving new input (at run 3396): input #49 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000049 src:000023,havoc:3 +count +cov
+Saving new input (at run 3404): input #50 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000050 src:000023,havoc:3 +count +cov
+Saving new input (at run 3423): input #51 of size 32; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000051 src:000023,havoc:7 +count +cov
+Saving new input (at run 3441): input #52 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000052 src:000023,havoc:4 +count +cov
+Saving new input (at run 3459): input #53 of size 44; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000053 src:000023,havoc:12 +count
+Saving new input (at run 3469): input #54 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000054 src:000023,havoc:8 +count +cov
+Saving new input (at run 3472): input #55 of size 44; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000055 src:000023,havoc:13 +count +cov
+Saving new input (at run 3529): input #56 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000056 src:000023,havoc:7 +count +cov
+Saving new input (at run 3601): input #57 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000057 src:000024,havoc:3 +count
+Saving new input (at run 3613): input #58 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000058 src:000024,havoc:5 +count +cov
+Saving new input (at run 3624): input #59 of size 16; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000059 src:000024,havoc:20 +count
+Saving new input (at run 3665): input #60 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000060 src:000024,havoc:2 +count
+Saving new input (at run 3786): input #61 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000061 src:000024,havoc:13 +count +cov
+Saving new input (at run 3860): input #62 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000062 src:000024,havoc:1 +count +cov
+Saving new input (at run 3863): input #63 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000063 src:000024,havoc:3 +count +cov
+Saving new input (at run 4025): input #64 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000064 src:000026,havoc:6 +count
+Saving new input (at run 4060): input #65 of size 16; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000065 src:000026,havoc:8 +count
+Saving new input (at run 4200): input #66 of size 56; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000066 src:000026,havoc:13 +count +cov
+Saving new input (at run 4336): input #67 of size 40; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000067 src:000029,havoc:3 +count +cov
+Saving new input (at run 4424): input #68 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000068 src:000030,havoc:1 +count +cov
+Saving new input (at run 4825): input #69 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000069 src:000031,havoc:2 +count +cov
+Saving new input (at run 4842): input #70 of size 100; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000070 src:000031,havoc:5 +count +cov
+Saving new input (at run 4983): input #71 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000071 src:000031,havoc:3 +count +cov
+Saving new input (at run 5121): input #72 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000072 src:000032,havoc:1 +count +cov
+Saving new input (at run 5146): input #73 of size 20; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000073 src:000032,havoc:2 +count +cov
+Saving new input (at run 5150): input #74 of size 136; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000074 src:000032,havoc:1 +count +cov
+Saving new input (at run 5186): input #75 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000075 src:000032,havoc:1 +count +cov
+Saving new input (at run 5349): input #76 of size 64; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000076 src:000032,havoc:2 +count +cov
+Saving new input (at run 5485): input #77 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000077 src:000032,havoc:4 +count +cov
+Saving new input (at run 5562): input #78 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000078 src:000032,havoc:1 +count +cov
+Saving new input (at run 5579): input #79 of size 16; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000079 src:000032,havoc:1 +count +cov +valid
+Saving new input (at run 5614): input #80 of size 192; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000080 src:000032,havoc:3 +count +cov
+Saving new input (at run 5905): input #81 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000081 src:000034,havoc:9 +count
+Saving new input (at run 5910): input #82 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000082 src:000034,havoc:22 +count +cov
+Saving new input (at run 5943): input #83 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000083 src:000034,havoc:8 +count +cov
+Saving new input (at run 5947): input #84 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000084 src:000034,havoc:7 +count +cov
+Saving new input (at run 5984): input #85 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000085 src:000034,havoc:6 +count +cov
+Saving new input (at run 6086): input #86 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000086 src:000034,havoc:10 +count +cov
+Saving new input (at run 6102): input #87 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000087 src:000034,havoc:8 +count +cov
+Saving new input (at run 6110): input #88 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000088 src:000034,havoc:3 +count +cov
+Saving new input (at run 6158): input #89 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000089 src:000034,havoc:20 +count +cov
+Saving new input (at run 6161): input #90 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000090 src:000034,havoc:23 +count
+Saving new input (at run 6234): input #91 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000091 src:000035,havoc:3 +count +cov
+Saving new input (at run 6242): input #92 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000092 src:000035,havoc:17 +count +cov
+Saving new input (at run 6290): input #93 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000093 src:000035,havoc:11 +count +cov
+Saving new input (at run 6358): input #94 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000094 src:000035,havoc:7 +count
+Saving new input (at run 6430): input #95 of size 28; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000095 src:000035,havoc:11 +count +cov
+Saving new input (at run 6474): input #96 of size 36; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000096 src:000035,havoc:18 +count +cov
+Saving new input (at run 6516): input #97 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000097 src:000035,havoc:9 +count +cov
+Saving new input (at run 6525): input #98 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000098 src:000035,havoc:4 +count +cov
+Saving new input (at run 6637): input #99 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000099 src:000036,havoc:15 +count +cov
+Saving new input (at run 6664): input #100 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000100 src:000036,havoc:10 +count +cov
+Saving new input (at run 6726): input #101 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000101 src:000036,havoc:8 +count
+Saving new input (at run 6745): input #102 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000102 src:000036,havoc:3 +count +cov
+Saving new input (at run 6937): input #103 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000103 src:000037,havoc:7 +count +cov
+Saving new input (at run 6971): input #104 of size 132; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000104 src:000037,havoc:14 +count
+Saving new input (at run 7067): input #105 of size 108; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000105 src:000037,havoc:4 +count +cov
+Saving new input (at run 7072): input #106 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000106 src:000037,havoc:10 +count +cov
+Saving new input (at run 7134): input #107 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000107 src:000037,havoc:14 +count +cov
+Saving new input (at run 7178): input #108 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000108 src:000037,havoc:6 +count +cov
+Saving new input (at run 7196): input #109 of size 44; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000109 src:000038,havoc:3 +count
+Saving new input (at run 7198): input #110 of size 32; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000110 src:000038,havoc:12 +count
+Saving new input (at run 7261): input #111 of size 104; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000111 src:000038,havoc:2 +count
+Saving new input (at run 7268): input #112 of size 236; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000112 src:000038,havoc:7 +count
+Saving new input (at run 7323): input #113 of size 32; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000113 src:000038,havoc:1 +count
+Saving new input (at run 7353): input #114 of size 28; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000114 src:000038,havoc:2 +count
+Saving new input (at run 7491): input #115 of size 24; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000115 src:000038,havoc:4 +count
+Saving new input (at run 7503): input #116 of size 16; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000116 src:000039,havoc:20 +count
+Saving new input (at run 7511): input #117 of size 72; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000117 src:000039,havoc:5 +count
+Saving new input (at run 7512): input #118 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000118 src:000039,havoc:9 +count
+Saving new input (at run 7531): input #119 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000119 src:000039,havoc:2 +count +cov
+Saving new input (at run 7557): input #120 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000120 src:000039,havoc:6 +count +cov
+Saving new input (at run 7565): input #121 of size 28; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000121 src:000039,havoc:2 +count
+Saving new input (at run 7574): input #122 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000122 src:000039,havoc:6 +count +cov
+Saving new input (at run 7613): input #123 of size 20; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000123 src:000039,havoc:7 +count
+Saving new input (at run 7619): input #124 of size 100; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000124 src:000039,havoc:6 +count
+Saving new input (at run 7653): input #125 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000125 src:000039,havoc:7 +count +cov
+Saving new input (at run 7676): input #126 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000126 src:000039,havoc:5 +count +cov
+Saving new input (at run 7711): input #127 of size 24; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000127 src:000039,havoc:9 +count
+Saving new input (at run 7840): input #128 of size 48; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000128 src:000040,havoc:7 +count +cov
+Saving new input (at run 7955): input #129 of size 44; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000129 src:000040,havoc:3 +count +cov
+Saving new input (at run 8028): input #130 of size 48; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000130 src:000040,havoc:2 +count
+Saving new input (at run 8038): input #131 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000131 src:000040,havoc:26 +count +cov +valid
+Saving new input (at run 8097): input #132 of size 48; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000132 src:000040,havoc:3 +count +cov
+Saving new input (at run 8199): input #133 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000133 src:000041,havoc:13 +count +cov
+Saving new input (at run 8201): input #134 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000134 src:000041,havoc:15 +count +cov
+Saving new input (at run 9070): input #135 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000135 src:000043,havoc:6 +count +cov
+Saving new input (at run 9133): input #136 of size 64; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000136 src:000044,havoc:22 +count +cov
+Saving new input (at run 9159): input #137 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000137 src:000044,havoc:4 +count +cov +valid
+Saving new input (at run 9204): input #138 of size 44; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000138 src:000045,havoc:6 +count
+Saving new input (at run 9213): input #139 of size 44; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000139 src:000045,havoc:1 +count
+Saving new input (at run 9350): input #140 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000140 src:000045,havoc:11 +count +cov
+Saving new input (at run 10268): input #141 of size 56; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000141 src:000048,havoc:3 +count +cov
+Saving new input (at run 10341): input #142 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000142 src:000048,havoc:11 +count
+Saving new input (at run 10368): input #143 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000143 src:000048,havoc:4 +count +cov
+Saving new input (at run 10385): input #144 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000144 src:000048,havoc:17 +count +cov
+Saving new input (at run 10517): input #145 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000145 src:000049,havoc:7 +count +cov
+Saving new input (at run 10519): input #146 of size 192; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000146 src:000049,havoc:6 +count
+Saving new input (at run 10648): input #147 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000147 src:000049,havoc:7 +count +cov
+Saving new input (at run 10700): input #148 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000148 src:000049,havoc:2 +count +cov
+Saving new input (at run 11377): input #149 of size 32; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000149 src:000051,havoc:1 +count +cov
+Saving new input (at run 11407): input #150 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000150 src:000052,havoc:11 +count +cov
+Saving new input (at run 11435): input #151 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000151 src:000052,havoc:6 +count +cov
+Saving new input (at run 11468): input #152 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000152 src:000052,havoc:9 +count +cov
+Saving new input (at run 11515): input #153 of size 48; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000153 src:000052,havoc:3 +count +cov
+Saving new input (at run 11517): input #154 of size 104; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000154 src:000052,havoc:6 +count +cov
+Saving new input (at run 11659): input #155 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000155 src:000052,havoc:10 +count +cov
+Saving new input (at run 11854): input #156 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000156 src:000054,havoc:3 +count +cov
+Saving new input (at run 11886): input #157 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000157 src:000054,havoc:5 +count +cov
+Saving new input (at run 13417): input #158 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000158 src:000062,havoc:6 +count +cov
+Saving new input (at run 16033): input #159 of size 12; reason = +count +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000159 src:000072,havoc:2 +count +valid
+Saving new input (at run 16043): input #160 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000160 src:000072,havoc:3 +valid
+Saving new input (at run 16151): input #161 of size 12; reason = +count +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000161 src:000072,havoc:4 +count +valid
+Saving new input (at run 16732): input #162 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000162 src:000074,havoc:9 +count
+Saving new input (at run 17139): input #163 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000163 src:000075,havoc:2 +count +cov
+Saving new input (at run 17568): input #164 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000164 src:000077,havoc:2 +count +cov +valid
+Saving new input (at run 17693): input #165 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000165 src:000077,havoc:1 +valid
+Saving new input (at run 18065): input #166 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000166 src:000078,havoc:1 +valid
+Saving new input (at run 18228): input #167 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000167 src:000079,havoc:5 +count +cov
+Saving new input (at run 18303): input #168 of size 16; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000168 src:000079,havoc:1 +valid
+Saving new input (at run 18589): input #169 of size 16; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000169 src:000079,havoc:1 +valid
+Saving new input (at run 18777): input #170 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000170 src:000079,havoc:3 +count +cov
+Saving new input (at run 18991): input #171 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000171 src:000079,havoc:2 +count +cov
+Saving new input (at run 19119): input #172 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000172 src:000080,havoc:5 +valid
+Saving new input (at run 19283): input #173 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000173 src:000082,havoc:6 +count +cov
+Saving new input (at run 19550): input #174 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000174 src:000083,havoc:21 +count
+Saving new input (at run 19819): input #175 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000175 src:000084,havoc:3 +count +cov
+Saving new input (at run 19925): input #176 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000176 src:000084,havoc:13 +count
+Saving new input (at run 20134): input #177 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000177 src:000085,havoc:7 +count +cov
+Saving new input (at run 20335): input #178 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000178 src:000085,havoc:2 +count
+Saving new input (at run 20860): input #179 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000179 src:000087,havoc:31 +count
+Saving new input (at run 20921): input #180 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000180 src:000087,havoc:7 +count
+Saving new input (at run 21586): input #181 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000181 src:000089,havoc:12 +count +cov
+Saving new input (at run 21641): input #182 of size 140; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000182 src:000089,havoc:18 +count
+Saving new input (at run 21800): input #183 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000183 src:000091,havoc:1 +count
+Saving new input (at run 24929): input #184 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000184 src:000103,havoc:1 +count +cov
+Saving new input (at run 24940): input #185 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000185 src:000103,havoc:2 +count +cov
+Saving new input (at run 25660): input #186 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000186 src:000108,havoc:6 +valid
+Saving new input (at run 26113): input #187 of size 144; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000187 src:000119,havoc:11 +count
+Saving new input (at run 26115): input #188 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000188 src:000119,havoc:2 +count
+Saving new input (at run 26160): input #189 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000189 src:000120,havoc:9 +valid
+Saving new input (at run 26270): input #190 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000190 src:000122,havoc:2 +count +cov
+Saving new input (at run 26621): input #191 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000191 src:000125,havoc:12 +valid
+Saving new input (at run 26645): input #192 of size 160; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000192 src:000126,havoc:3 +count
+Saving new input (at run 27022): input #193 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000193 src:000128,havoc:9 +count +cov +valid
+Saving new input (at run 27630): input #194 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000194 src:000131,havoc:4 +valid
+Saving new input (at run 27864): input #195 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000195 src:000131,havoc:2 +valid
+Saving new input (at run 27881): input #196 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000196 src:000131,havoc:1 +count +cov +valid
+Saving new input (at run 28340): input #197 of size 40; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000197 src:000132,havoc:3 +count +cov
+Saving new input (at run 28728): input #198 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000198 src:000133,havoc:4 +valid
+Saving new input (at run 28792): input #199 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000199 src:000134,havoc:11 +count +cov
+Saving new input (at run 29407): input #200 of size 64; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000200 src:000136,havoc:7 +count
+Saving new input (at run 30433): input #201 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000201 src:000137,havoc:2 +count +cov +valid
+Saving new input (at run 30520): input #202 of size 20; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000202 src:000138,havoc:3 +count +cov
+Saving new input (at run 30531): input #203 of size 44; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000203 src:000139,havoc:2 +count
+Saving new input (at run 30624): input #204 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000204 src:000140,havoc:3 +count
+Saving new input (at run 30888): input #205 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000205 src:000141,havoc:10 +valid
+Saving new input (at run 31357): input #206 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000206 src:000144,havoc:14 +valid
+Saving new input (at run 31378): input #207 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000207 src:000145,havoc:3 +valid
+Saving new input (at run 31492): input #208 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000208 src:000147,havoc:11 +valid
+Saving new input (at run 31545): input #209 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000209 src:000148,havoc:8 +valid
+Saving new input (at run 31570): input #210 of size 32; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000210 src:000149,havoc:3 +count
+Saving new input (at run 31888): input #211 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000211 src:000150,havoc:3 +count
+Saving new input (at run 32426): input #212 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000212 src:000152,havoc:2 +valid
+Saving new input (at run 32526): input #213 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000213 src:000153,havoc:2 +valid
+Saving new input (at run 32777): input #214 of size 104; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000214 src:000154,havoc:12 +count +cov
+Saving new input (at run 32907): input #215 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000215 src:000155,havoc:17 +valid
+Saving new input (at run 33577): input #216 of size 16; reason = +count +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000216 src:000158,havoc:4 +count +valid
+Saving new input (at run 33639): input #217 of size 380; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000217 src:000159,havoc:3 +count
+Saving new input (at run 33882): input #218 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000218 src:000159,havoc:1 +valid
+Saving new input (at run 34293): input #219 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000219 src:000159,havoc:2 +count
+Saving new input (at run 34734): input #220 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000220 src:000160,havoc:1 +valid
+Saving new input (at run 34906): input #221 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000221 src:000160,havoc:2 +valid
+Saving new input (at run 35576): input #222 of size 16; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000222 src:000161,havoc:3 +count +cov
+Saving new input (at run 36629): input #223 of size 40; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000223 src:000164,havoc:2 +count +cov
+Saving new input (at run 36733): input #224 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000224 src:000164,havoc:1 +valid
+Saving new input (at run 39506): input #225 of size 16; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000225 src:000169,havoc:2 +valid
+Saving new input (at run 40243): input #226 of size 16; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000226 src:000170,havoc:2 +valid
+Saving new input (at run 41090): input #227 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000227 src:000173,havoc:19 +count
+Saving new input (at run 41603): input #228 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000228 src:000177,havoc:10 +count
+Saving new input (at run 41840): input #229 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000229 src:000181,havoc:28 +count +cov
+Saving new input (at run 42240): input #230 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000230 src:000184,havoc:6 +valid
+Saving new input (at run 42306): input #231 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000231 src:000185,havoc:6 +valid
+Saving new input (at run 44660): input #232 of size 12; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000232 src:000191,havoc:2 +count +cov
+Saving new input (at run 48334): input #233 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000233 src:000197,havoc:7 +valid
+Saving new input (at run 48604): input #234 of size 12; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000234 src:000198,havoc:4 +count
+Saving new input (at run 49428): input #235 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000235 src:000199,havoc:6 +count
+Saving new input (at run 49562): input #236 of size 20; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000236 src:000201,havoc:1 +count +cov
+Saving new input (at run 50371): input #237 of size 28; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000237 src:000203,havoc:2 +count
+Saving new input (at run 50585): input #238 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000238 src:000205,havoc:3 +count +cov +valid
+Saving new input (at run 52015): input #239 of size 20; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000239 src:000206,havoc:4 +count +cov +valid
+Saving new input (at run 53431): input #240 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000240 src:000208,havoc:1 +valid
+Saving new input (at run 56311): input #241 of size 104; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000241 src:000214,havoc:8 +count +cov
+Saving new input (at run 56332): input #242 of size 104; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000242 src:000214,havoc:6 +count +cov
+Saving new input (at run 56379): input #243 of size 104; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000243 src:000214,havoc:4 +count +cov
+Saving new input (at run 60514): input #244 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000244 src:000221,havoc:3 +valid
+Saving new input (at run 60615): input #245 of size 16; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000245 src:000222,havoc:4 +valid
+Saving new input (at run 60965): input #246 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000246 src:000223,havoc:2 +valid
+Saving new input (at run 61660): input #247 of size 16; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000247 src:000225,havoc:1 +count +cov +valid
+Saving new input (at run 63211): input #248 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000248 src:000227,havoc:4 +count
+Saving new input (at run 66347): input #249 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000249 src:000236,havoc:2 +valid
+Saving new input (at run 69069): input #250 of size 104; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000250 src:000242,havoc:8 +count
+Saving new input (at run 73392): input #251 of size 12; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000251 src:000249,havoc:1 +count +cov +valid
+
+# Cycle 1 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 257 branches
+Input 10 is responsible for 4936 branches
+Input 11 is responsible for 8 branches
+Input 12 is responsible for 3 branches
+Input 13 is responsible for 5 branches
+Input 24 is responsible for 7 branches
+Input 26 is responsible for 11 branches
+Input 30 is responsible for 1 branches
+Input 31 is responsible for 8 branches
+Input 32 is responsible for 1 branches
+Input 34 is responsible for 6 branches
+Input 35 is responsible for 1 branches
+Input 36 is responsible for 4 branches
+Input 37 is responsible for 1 branches
+Input 38 is responsible for 27 branches
+Input 39 is responsible for 32 branches
+Input 40 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 45 is responsible for 1 branches
+Input 47 is responsible for 1 branches
+Input 48 is responsible for 1 branches
+Input 49 is responsible for 1 branches
+Input 50 is responsible for 1 branches
+Input 51 is responsible for 8 branches
+Input 52 is responsible for 19 branches
+Input 54 is responsible for 1 branches
+Input 55 is responsible for 1 branches
+Input 58 is responsible for 1 branches
+Input 61 is responsible for 13 branches
+Input 62 is responsible for 2 branches
+Input 63 is responsible for 8 branches
+Input 66 is responsible for 1 branches
+Input 67 is responsible for 4 branches
+Input 68 is responsible for 4 branches
+Input 69 is responsible for 1 branches
+Input 70 is responsible for 1 branches
+Input 71 is responsible for 2 branches
+Input 72 is responsible for 1 branches
+Input 73 is responsible for 1 branches
+Input 74 is responsible for 1 branches
+Input 75 is responsible for 1 branches
+Input 76 is responsible for 1 branches
+Input 77 is responsible for 1 branches
+Input 78 is responsible for 1 branches
+Input 79 is responsible for 14 branches
+Input 82 is responsible for 11 branches
+Input 83 is responsible for 15 branches
+Input 84 is responsible for 1 branches
+Input 86 is responsible for 6 branches
+Input 87 is responsible for 10 branches
+Input 89 is responsible for 19 branches
+Input 91 is responsible for 1 branches
+Input 92 is responsible for 7 branches
+Input 93 is responsible for 1 branches
+Input 95 is responsible for 1 branches
+Input 96 is responsible for 2 branches
+Input 97 is responsible for 1 branches
+Input 98 is responsible for 1 branches
+Input 99 is responsible for 3 branches
+Input 100 is responsible for 2 branches
+Input 102 is responsible for 4 branches
+Input 103 is responsible for 1 branches
+Input 106 is responsible for 1 branches
+Input 119 is responsible for 4 branches
+Input 122 is responsible for 1 branches
+Input 126 is responsible for 1 branches
+Input 129 is responsible for 1 branches
+Input 131 is responsible for 1 branches
+Input 132 is responsible for 1 branches
+Input 134 is responsible for 21 branches
+Input 135 is responsible for 17 branches
+Input 136 is responsible for 2 branches
+Input 137 is responsible for 49 branches
+Input 140 is responsible for 14 branches
+Input 143 is responsible for 1 branches
+Input 149 is responsible for 3 branches
+Input 150 is responsible for 3 branches
+Input 154 is responsible for 4 branches
+Input 156 is responsible for 1 branches
+Input 157 is responsible for 1 branches
+Input 159 is responsible for 2 branches
+Input 160 is responsible for 1 branches
+Input 161 is responsible for 3 branches
+Input 163 is responsible for 3 branches
+Input 164 is responsible for 94 branches
+Input 165 is responsible for 1 branches
+Input 166 is responsible for 1 branches
+Input 168 is responsible for 1 branches
+Input 169 is responsible for 1 branches
+Input 172 is responsible for 1 branches
+Input 173 is responsible for 2 branches
+Input 177 is responsible for 1 branches
+Input 181 is responsible for 6 branches
+Input 186 is responsible for 1 branches
+Input 189 is responsible for 1 branches
+Input 190 is responsible for 2 branches
+Input 191 is responsible for 1 branches
+Input 193 is responsible for 7 branches
+Input 194 is responsible for 1 branches
+Input 195 is responsible for 1 branches
+Input 196 is responsible for 1 branches
+Input 198 is responsible for 1 branches
+Input 199 is responsible for 5 branches
+Input 201 is responsible for 1 branches
+Input 205 is responsible for 1 branches
+Input 206 is responsible for 1 branches
+Input 207 is responsible for 1 branches
+Input 208 is responsible for 1 branches
+Input 209 is responsible for 1 branches
+Input 212 is responsible for 1 branches
+Input 213 is responsible for 1 branches
+Input 214 is responsible for 13 branches
+Input 215 is responsible for 1 branches
+Input 216 is responsible for 7 branches
+Input 218 is responsible for 3 branches
+Input 220 is responsible for 1 branches
+Input 221 is responsible for 1 branches
+Input 222 is responsible for 2 branches
+Input 224 is responsible for 1 branches
+Input 225 is responsible for 2 branches
+Input 226 is responsible for 1 branches
+Input 229 is responsible for 3 branches
+Input 230 is responsible for 1 branches
+Input 231 is responsible for 1 branches
+Input 232 is responsible for 2 branches
+Input 233 is responsible for 1 branches
+Input 238 is responsible for 1 branches
+Input 239 is responsible for 1 branches
+Input 240 is responsible for 1 branches
+Input 241 is responsible for 8 branches
+Input 242 is responsible for 5 branches
+Input 243 is responsible for 9 branches
+Input 244 is responsible for 1 branches
+Input 245 is responsible for 2 branches
+Input 246 is responsible for 1 branches
+Input 247 is responsible for 60 branches
+Input 249 is responsible for 1 branches
+Input 251 is responsible for 2 branches
+Total 5893 branches covered
+
+
+
+
+Saving new input (at run 80212): input #252 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000252 src:000038,havoc:2 +count +cov
+Saving new input (at run 80221): input #253 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000253 src:000038,havoc:5 +count
+Saving new input (at run 91296): input #254 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000254 src:000086,havoc:1 +count
+Saving new input (at run 91556): input #255 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000255 src:000087,havoc:3 +count +cov
+Saving new input (at run 91602): input #256 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000256 src:000087,havoc:5 +count
+Saving new input (at run 99234): input #257 of size 64; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000257 src:000136,havoc:5 +count
+Saving new input (at run 110449): input #258 of size 96; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000258 src:000177,havoc:11 +count +cov
+Saving new input (at run 117012): input #259 of size 12; reason = +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000259 src:000198,havoc:2 +valid
+Saving new input (at run 119599): input #260 of size 32; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000260 src:000206,havoc:10 +count +cov
+Saving new input (at run 121396): input #261 of size 412; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000261 src:000208,havoc:7 +count
+Saving new input (at run 126446): input #262 of size 20; reason = +count +cov +valid
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000262 src:000216,havoc:1 +count +cov +valid
+Saving new input (at run 142202): input #263 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000263 src:000252,havoc:6 +count +cov
+Saving new input (at run 142288): input #264 of size 52; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000264 src:000252,havoc:3 +count
+Saving new input (at run 142440): input #265 of size 40; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000265 src:000253,havoc:2 +count +cov
+Saving new input (at run 142491): input #266 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000266 src:000255,havoc:7 +count
+Saving new input (at run 142582): input #267 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000267 src:000255,havoc:6 +count
+Saving new input (at run 145739): input #268 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000268 src:000266,havoc:17 +count
+
+# Cycle 2 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 257 branches
+Input 10 is responsible for 4936 branches
+Input 11 is responsible for 8 branches
+Input 12 is responsible for 3 branches
+Input 13 is responsible for 5 branches
+Input 24 is responsible for 5 branches
+Input 26 is responsible for 11 branches
+Input 30 is responsible for 1 branches
+Input 31 is responsible for 8 branches
+Input 32 is responsible for 1 branches
+Input 34 is responsible for 6 branches
+Input 35 is responsible for 1 branches
+Input 36 is responsible for 4 branches
+Input 37 is responsible for 1 branches
+Input 38 is responsible for 27 branches
+Input 39 is responsible for 31 branches
+Input 40 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 47 is responsible for 1 branches
+Input 48 is responsible for 1 branches
+Input 49 is responsible for 1 branches
+Input 50 is responsible for 1 branches
+Input 51 is responsible for 8 branches
+Input 52 is responsible for 19 branches
+Input 54 is responsible for 1 branches
+Input 55 is responsible for 1 branches
+Input 58 is responsible for 1 branches
+Input 61 is responsible for 13 branches
+Input 62 is responsible for 2 branches
+Input 63 is responsible for 8 branches
+Input 66 is responsible for 1 branches
+Input 67 is responsible for 4 branches
+Input 68 is responsible for 4 branches
+Input 69 is responsible for 1 branches
+Input 70 is responsible for 1 branches
+Input 71 is responsible for 2 branches
+Input 72 is responsible for 1 branches
+Input 73 is responsible for 1 branches
+Input 74 is responsible for 1 branches
+Input 75 is responsible for 1 branches
+Input 76 is responsible for 1 branches
+Input 77 is responsible for 1 branches
+Input 78 is responsible for 1 branches
+Input 79 is responsible for 14 branches
+Input 82 is responsible for 11 branches
+Input 83 is responsible for 15 branches
+Input 84 is responsible for 1 branches
+Input 86 is responsible for 6 branches
+Input 87 is responsible for 10 branches
+Input 89 is responsible for 19 branches
+Input 91 is responsible for 1 branches
+Input 92 is responsible for 7 branches
+Input 93 is responsible for 1 branches
+Input 95 is responsible for 1 branches
+Input 96 is responsible for 2 branches
+Input 97 is responsible for 1 branches
+Input 98 is responsible for 1 branches
+Input 99 is responsible for 3 branches
+Input 100 is responsible for 2 branches
+Input 102 is responsible for 4 branches
+Input 103 is responsible for 1 branches
+Input 106 is responsible for 1 branches
+Input 119 is responsible for 4 branches
+Input 122 is responsible for 1 branches
+Input 126 is responsible for 1 branches
+Input 129 is responsible for 1 branches
+Input 131 is responsible for 1 branches
+Input 132 is responsible for 1 branches
+Input 134 is responsible for 21 branches
+Input 135 is responsible for 17 branches
+Input 136 is responsible for 2 branches
+Input 137 is responsible for 49 branches
+Input 140 is responsible for 14 branches
+Input 143 is responsible for 1 branches
+Input 149 is responsible for 3 branches
+Input 150 is responsible for 3 branches
+Input 154 is responsible for 4 branches
+Input 156 is responsible for 1 branches
+Input 159 is responsible for 2 branches
+Input 160 is responsible for 1 branches
+Input 161 is responsible for 3 branches
+Input 163 is responsible for 3 branches
+Input 164 is responsible for 94 branches
+Input 165 is responsible for 1 branches
+Input 166 is responsible for 1 branches
+Input 168 is responsible for 1 branches
+Input 169 is responsible for 1 branches
+Input 172 is responsible for 1 branches
+Input 173 is responsible for 2 branches
+Input 177 is responsible for 1 branches
+Input 181 is responsible for 6 branches
+Input 186 is responsible for 1 branches
+Input 189 is responsible for 1 branches
+Input 190 is responsible for 2 branches
+Input 191 is responsible for 1 branches
+Input 193 is responsible for 7 branches
+Input 194 is responsible for 1 branches
+Input 195 is responsible for 1 branches
+Input 196 is responsible for 1 branches
+Input 198 is responsible for 1 branches
+Input 199 is responsible for 5 branches
+Input 201 is responsible for 1 branches
+Input 205 is responsible for 1 branches
+Input 206 is responsible for 1 branches
+Input 207 is responsible for 1 branches
+Input 208 is responsible for 1 branches
+Input 209 is responsible for 1 branches
+Input 212 is responsible for 1 branches
+Input 213 is responsible for 1 branches
+Input 214 is responsible for 13 branches
+Input 215 is responsible for 1 branches
+Input 216 is responsible for 7 branches
+Input 218 is responsible for 3 branches
+Input 220 is responsible for 1 branches
+Input 221 is responsible for 1 branches
+Input 222 is responsible for 2 branches
+Input 224 is responsible for 1 branches
+Input 225 is responsible for 2 branches
+Input 226 is responsible for 1 branches
+Input 229 is responsible for 3 branches
+Input 230 is responsible for 1 branches
+Input 231 is responsible for 1 branches
+Input 232 is responsible for 2 branches
+Input 233 is responsible for 1 branches
+Input 238 is responsible for 1 branches
+Input 239 is responsible for 1 branches
+Input 240 is responsible for 1 branches
+Input 241 is responsible for 8 branches
+Input 242 is responsible for 5 branches
+Input 243 is responsible for 9 branches
+Input 244 is responsible for 1 branches
+Input 245 is responsible for 2 branches
+Input 246 is responsible for 1 branches
+Input 247 is responsible for 60 branches
+Input 249 is responsible for 1 branches
+Input 251 is responsible for 2 branches
+Input 252 is responsible for 13 branches
+Input 255 is responsible for 3 branches
+Input 258 is responsible for 3 branches
+Input 259 is responsible for 1 branches
+Input 260 is responsible for 3 branches
+Input 262 is responsible for 23 branches
+Input 263 is responsible for 1 branches
+Input 265 is responsible for 3 branches
+Total 5938 branches covered
+
+
+
+
+Saving new input (at run 152407): input #269 of size 48; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000269 src:000040,havoc:7 +count
+Saving new input (at run 164189): input #270 of size 36; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000270 src:000093,havoc:4 +count
+Saving new input (at run 172332): input #271 of size 28; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000271 src:000149,havoc:5 +count
+Saving new input (at run 180966): input #272 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000272 src:000173,havoc:3 +count +cov
+Saving new input (at run 181368): input #273 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000273 src:000177,havoc:18 +count
+Saving new input (at run 181491): input #274 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000274 src:000177,havoc:21 +count +cov
+Saving new input (at run 198304): input #275 of size 448; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000275 src:000220,havoc:17 +count
+Saving new input (at run 208266): input #276 of size 104; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000276 src:000242,havoc:6 +count
+Saving new input (at run 213192): input #277 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000277 src:000252,havoc:2 +count +cov
+Saving new input (at run 216354): input #278 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000278 src:000263,havoc:2 +count +cov
+Saving new input (at run 216740): input #279 of size 56; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000279 src:000269,havoc:1 +count
+Saving new input (at run 216847): input #280 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000280 src:000272,havoc:12 +count
+Saving new input (at run 216955): input #281 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000281 src:000272,havoc:6 +count +cov
+Saving new input (at run 216968): input #282 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000282 src:000272,havoc:7 +count +cov
+Saving new input (at run 218086): input #283 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000283 src:000280,havoc:12 +count
+Saving new input (at run 218204): input #284 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000284 src:000281,havoc:10 +count
+Saving new input (at run 218556): input #285 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000285 src:000282,havoc:6 +count
+Saving new input (at run 218710): input #286 of size 176; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000286 src:000282,havoc:2 +count +cov
+
+# Cycle 3 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 257 branches
+Input 10 is responsible for 4936 branches
+Input 11 is responsible for 8 branches
+Input 12 is responsible for 3 branches
+Input 13 is responsible for 5 branches
+Input 24 is responsible for 5 branches
+Input 26 is responsible for 11 branches
+Input 30 is responsible for 1 branches
+Input 31 is responsible for 8 branches
+Input 32 is responsible for 1 branches
+Input 34 is responsible for 6 branches
+Input 35 is responsible for 1 branches
+Input 36 is responsible for 4 branches
+Input 37 is responsible for 1 branches
+Input 38 is responsible for 27 branches
+Input 39 is responsible for 31 branches
+Input 40 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 47 is responsible for 1 branches
+Input 48 is responsible for 1 branches
+Input 49 is responsible for 1 branches
+Input 50 is responsible for 1 branches
+Input 51 is responsible for 8 branches
+Input 52 is responsible for 19 branches
+Input 54 is responsible for 1 branches
+Input 55 is responsible for 1 branches
+Input 58 is responsible for 1 branches
+Input 61 is responsible for 13 branches
+Input 62 is responsible for 2 branches
+Input 63 is responsible for 8 branches
+Input 66 is responsible for 1 branches
+Input 67 is responsible for 4 branches
+Input 68 is responsible for 4 branches
+Input 69 is responsible for 1 branches
+Input 70 is responsible for 1 branches
+Input 71 is responsible for 2 branches
+Input 72 is responsible for 1 branches
+Input 73 is responsible for 1 branches
+Input 74 is responsible for 1 branches
+Input 75 is responsible for 1 branches
+Input 76 is responsible for 1 branches
+Input 77 is responsible for 1 branches
+Input 78 is responsible for 1 branches
+Input 79 is responsible for 14 branches
+Input 82 is responsible for 11 branches
+Input 83 is responsible for 15 branches
+Input 84 is responsible for 1 branches
+Input 86 is responsible for 6 branches
+Input 87 is responsible for 10 branches
+Input 89 is responsible for 19 branches
+Input 91 is responsible for 1 branches
+Input 92 is responsible for 7 branches
+Input 93 is responsible for 1 branches
+Input 95 is responsible for 1 branches
+Input 96 is responsible for 2 branches
+Input 97 is responsible for 1 branches
+Input 98 is responsible for 1 branches
+Input 99 is responsible for 3 branches
+Input 100 is responsible for 2 branches
+Input 102 is responsible for 4 branches
+Input 103 is responsible for 1 branches
+Input 106 is responsible for 1 branches
+Input 119 is responsible for 4 branches
+Input 122 is responsible for 1 branches
+Input 126 is responsible for 1 branches
+Input 129 is responsible for 1 branches
+Input 131 is responsible for 1 branches
+Input 132 is responsible for 1 branches
+Input 134 is responsible for 21 branches
+Input 135 is responsible for 17 branches
+Input 136 is responsible for 2 branches
+Input 137 is responsible for 49 branches
+Input 140 is responsible for 14 branches
+Input 143 is responsible for 1 branches
+Input 149 is responsible for 3 branches
+Input 150 is responsible for 3 branches
+Input 154 is responsible for 4 branches
+Input 156 is responsible for 1 branches
+Input 159 is responsible for 2 branches
+Input 160 is responsible for 1 branches
+Input 161 is responsible for 3 branches
+Input 163 is responsible for 3 branches
+Input 164 is responsible for 94 branches
+Input 165 is responsible for 1 branches
+Input 166 is responsible for 1 branches
+Input 168 is responsible for 1 branches
+Input 169 is responsible for 1 branches
+Input 172 is responsible for 1 branches
+Input 173 is responsible for 2 branches
+Input 177 is responsible for 1 branches
+Input 181 is responsible for 6 branches
+Input 186 is responsible for 1 branches
+Input 189 is responsible for 1 branches
+Input 190 is responsible for 2 branches
+Input 191 is responsible for 1 branches
+Input 193 is responsible for 7 branches
+Input 194 is responsible for 1 branches
+Input 195 is responsible for 1 branches
+Input 196 is responsible for 1 branches
+Input 198 is responsible for 1 branches
+Input 199 is responsible for 5 branches
+Input 201 is responsible for 1 branches
+Input 205 is responsible for 1 branches
+Input 206 is responsible for 1 branches
+Input 207 is responsible for 1 branches
+Input 208 is responsible for 1 branches
+Input 209 is responsible for 1 branches
+Input 212 is responsible for 1 branches
+Input 213 is responsible for 1 branches
+Input 214 is responsible for 13 branches
+Input 215 is responsible for 1 branches
+Input 216 is responsible for 7 branches
+Input 218 is responsible for 3 branches
+Input 220 is responsible for 1 branches
+Input 221 is responsible for 1 branches
+Input 222 is responsible for 2 branches
+Input 224 is responsible for 1 branches
+Input 225 is responsible for 2 branches
+Input 226 is responsible for 1 branches
+Input 229 is responsible for 3 branches
+Input 230 is responsible for 1 branches
+Input 231 is responsible for 1 branches
+Input 232 is responsible for 2 branches
+Input 233 is responsible for 1 branches
+Input 238 is responsible for 1 branches
+Input 239 is responsible for 1 branches
+Input 240 is responsible for 1 branches
+Input 241 is responsible for 8 branches
+Input 242 is responsible for 5 branches
+Input 243 is responsible for 9 branches
+Input 244 is responsible for 1 branches
+Input 245 is responsible for 2 branches
+Input 246 is responsible for 1 branches
+Input 247 is responsible for 60 branches
+Input 249 is responsible for 1 branches
+Input 251 is responsible for 2 branches
+Input 252 is responsible for 13 branches
+Input 255 is responsible for 3 branches
+Input 258 is responsible for 3 branches
+Input 259 is responsible for 1 branches
+Input 260 is responsible for 3 branches
+Input 262 is responsible for 23 branches
+Input 263 is responsible for 1 branches
+Input 265 is responsible for 3 branches
+Input 272 is responsible for 17 branches
+Input 274 is responsible for 1 branches
+Input 277 is responsible for 1 branches
+Input 278 is responsible for 1 branches
+Input 281 is responsible for 26 branches
+Input 282 is responsible for 1 branches
+Input 286 is responsible for 1 branches
+Total 5986 branches covered
+
+
+
+
+Saving new input (at run 225539): input #287 of size 52; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000287 src:000039,havoc:1 +count +cov
+Saving new input (at run 241737): input #288 of size 80; reason = +count +cov
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000288 src:000129,havoc:9 +count +cov
+Saving new input (at run 245341): input #289 of size 56; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000289 src:000143,havoc:7 +count
+Saving new input (at run 254804): input #290 of size 176; reason = +count
+Saved - /mnt/c/Users/Rick3000/Desktop/cs182/testGCC/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000290 src:000181,havoc:8 +count
