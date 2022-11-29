@@ -1,0 +1,10 @@
+#ignore target and results folder
+target/
+Test\ Results/
+*result*
+Test\ Results.zip
+*.docx
+result_screenshots/
+*.txt
+visuals*
+data*

@@ -1,5 +1,3 @@
-package examples;
-
 import java.util.*;
 import java.util.function.*;
 

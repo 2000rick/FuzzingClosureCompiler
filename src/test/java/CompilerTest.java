@@ -1,5 +1,3 @@
-package examples;
-
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
